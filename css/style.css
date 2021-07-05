@@ -19,13 +19,22 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
+  font-size: 6vw;
+  line-height: 6vw;
+}
+.my-blog-text-with-image-small {
+  font-size: 3vw;
 }
 .my-blog-post-content {
   margin-top: 50px;
   font-size: 1.5em;
 }
 .my-blog-tags {
-  align-content: center;
+  text-align: center;
+  margin-top: 50px;
+}
+.my-blog-categories {
+  text-align: center;
   margin-top: 50px;
 }
 body {
