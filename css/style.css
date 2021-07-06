@@ -2,10 +2,10 @@
   text-transform: none;
 }
 .my-blog-content {
-  width: 100%;
+  width: 90%;
   margin-top: 30px;
   background-color: #fff;
-  overflow: auto;
+  overflow: hidden;
 }
 .my-blog-article {
   width: 100%;
